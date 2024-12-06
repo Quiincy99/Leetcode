@@ -1,0 +1,14 @@
+C:\Users\lam15\Sources\Leetcode\ReverseLinkedList\bin\Debug\net8.0\ReverseLinkedList.exe
+C:\Users\lam15\Sources\Leetcode\ReverseLinkedList\bin\Debug\net8.0\ReverseLinkedList.deps.json
+C:\Users\lam15\Sources\Leetcode\ReverseLinkedList\bin\Debug\net8.0\ReverseLinkedList.runtimeconfig.json
+C:\Users\lam15\Sources\Leetcode\ReverseLinkedList\bin\Debug\net8.0\ReverseLinkedList.dll
+C:\Users\lam15\Sources\Leetcode\ReverseLinkedList\bin\Debug\net8.0\ReverseLinkedList.pdb
+C:\Users\lam15\Sources\Leetcode\ReverseLinkedList\obj\Debug\net8.0\ReverseLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lam15\Sources\Leetcode\ReverseLinkedList\obj\Debug\net8.0\ReverseLinkedList.AssemblyInfoInputs.cache
+C:\Users\lam15\Sources\Leetcode\ReverseLinkedList\obj\Debug\net8.0\ReverseLinkedList.AssemblyInfo.cs
+C:\Users\lam15\Sources\Leetcode\ReverseLinkedList\obj\Debug\net8.0\ReverseLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\lam15\Sources\Leetcode\ReverseLinkedList\obj\Debug\net8.0\ReverseLinkedList.dll
+C:\Users\lam15\Sources\Leetcode\ReverseLinkedList\obj\Debug\net8.0\refint\ReverseLinkedList.dll
+C:\Users\lam15\Sources\Leetcode\ReverseLinkedList\obj\Debug\net8.0\ReverseLinkedList.pdb
+C:\Users\lam15\Sources\Leetcode\ReverseLinkedList\obj\Debug\net8.0\ReverseLinkedList.genruntimeconfig.cache
+C:\Users\lam15\Sources\Leetcode\ReverseLinkedList\obj\Debug\net8.0\ref\ReverseLinkedList.dll

@@ -1,0 +1,11 @@
+C:\Users\lam15\Sources\is-odd\bin\Release\net8.0\is-odd.deps.json
+C:\Users\lam15\Sources\is-odd\bin\Release\net8.0\is-odd.dll
+C:\Users\lam15\Sources\is-odd\bin\Release\net8.0\is-odd.pdb
+C:\Users\lam15\Sources\is-odd\obj\Release\net8.0\is-odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lam15\Sources\is-odd\obj\Release\net8.0\is-odd.AssemblyInfoInputs.cache
+C:\Users\lam15\Sources\is-odd\obj\Release\net8.0\is-odd.AssemblyInfo.cs
+C:\Users\lam15\Sources\is-odd\obj\Release\net8.0\is-odd.csproj.CoreCompileInputs.cache
+C:\Users\lam15\Sources\is-odd\obj\Release\net8.0\is-odd.dll
+C:\Users\lam15\Sources\is-odd\obj\Release\net8.0\refint\is-odd.dll
+C:\Users\lam15\Sources\is-odd\obj\Release\net8.0\is-odd.pdb
+C:\Users\lam15\Sources\is-odd\obj\Release\net8.0\ref\is-odd.dll

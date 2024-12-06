@@ -1,0 +1,14 @@
+C:\Users\lam15\Sources\Leetcode\RemoveDuplicatesFromSorted\bin\Debug\net8.0\RemoveDuplicatesFromSorted.exe
+C:\Users\lam15\Sources\Leetcode\RemoveDuplicatesFromSorted\bin\Debug\net8.0\RemoveDuplicatesFromSorted.deps.json
+C:\Users\lam15\Sources\Leetcode\RemoveDuplicatesFromSorted\bin\Debug\net8.0\RemoveDuplicatesFromSorted.runtimeconfig.json
+C:\Users\lam15\Sources\Leetcode\RemoveDuplicatesFromSorted\bin\Debug\net8.0\RemoveDuplicatesFromSorted.dll
+C:\Users\lam15\Sources\Leetcode\RemoveDuplicatesFromSorted\bin\Debug\net8.0\RemoveDuplicatesFromSorted.pdb
+C:\Users\lam15\Sources\Leetcode\RemoveDuplicatesFromSorted\obj\Debug\net8.0\RemoveDuplicatesFromSorted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lam15\Sources\Leetcode\RemoveDuplicatesFromSorted\obj\Debug\net8.0\RemoveDuplicatesFromSorted.AssemblyInfoInputs.cache
+C:\Users\lam15\Sources\Leetcode\RemoveDuplicatesFromSorted\obj\Debug\net8.0\RemoveDuplicatesFromSorted.AssemblyInfo.cs
+C:\Users\lam15\Sources\Leetcode\RemoveDuplicatesFromSorted\obj\Debug\net8.0\RemoveDuplicatesFromSorted.csproj.CoreCompileInputs.cache
+C:\Users\lam15\Sources\Leetcode\RemoveDuplicatesFromSorted\obj\Debug\net8.0\RemoveDuplicatesFromSorted.dll
+C:\Users\lam15\Sources\Leetcode\RemoveDuplicatesFromSorted\obj\Debug\net8.0\refint\RemoveDuplicatesFromSorted.dll
+C:\Users\lam15\Sources\Leetcode\RemoveDuplicatesFromSorted\obj\Debug\net8.0\RemoveDuplicatesFromSorted.pdb
+C:\Users\lam15\Sources\Leetcode\RemoveDuplicatesFromSorted\obj\Debug\net8.0\RemoveDuplicatesFromSorted.genruntimeconfig.cache
+C:\Users\lam15\Sources\Leetcode\RemoveDuplicatesFromSorted\obj\Debug\net8.0\ref\RemoveDuplicatesFromSorted.dll

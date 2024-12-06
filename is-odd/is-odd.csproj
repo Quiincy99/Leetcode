@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>is.odd.test</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>LamDuong</Authors>
+    <Company>None</Company>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>is_odd</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

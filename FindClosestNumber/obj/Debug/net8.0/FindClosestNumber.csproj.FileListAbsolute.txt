@@ -1,0 +1,14 @@
+C:\Users\lam15\Sources\Leetcode\FindClosestNumber\bin\Debug\net8.0\FindClosestNumber.exe
+C:\Users\lam15\Sources\Leetcode\FindClosestNumber\bin\Debug\net8.0\FindClosestNumber.deps.json
+C:\Users\lam15\Sources\Leetcode\FindClosestNumber\bin\Debug\net8.0\FindClosestNumber.runtimeconfig.json
+C:\Users\lam15\Sources\Leetcode\FindClosestNumber\bin\Debug\net8.0\FindClosestNumber.dll
+C:\Users\lam15\Sources\Leetcode\FindClosestNumber\bin\Debug\net8.0\FindClosestNumber.pdb
+C:\Users\lam15\Sources\Leetcode\FindClosestNumber\obj\Debug\net8.0\FindClosestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lam15\Sources\Leetcode\FindClosestNumber\obj\Debug\net8.0\FindClosestNumber.AssemblyInfoInputs.cache
+C:\Users\lam15\Sources\Leetcode\FindClosestNumber\obj\Debug\net8.0\FindClosestNumber.AssemblyInfo.cs
+C:\Users\lam15\Sources\Leetcode\FindClosestNumber\obj\Debug\net8.0\FindClosestNumber.csproj.CoreCompileInputs.cache
+C:\Users\lam15\Sources\Leetcode\FindClosestNumber\obj\Debug\net8.0\FindClosestNumber.dll
+C:\Users\lam15\Sources\Leetcode\FindClosestNumber\obj\Debug\net8.0\refint\FindClosestNumber.dll
+C:\Users\lam15\Sources\Leetcode\FindClosestNumber\obj\Debug\net8.0\FindClosestNumber.pdb
+C:\Users\lam15\Sources\Leetcode\FindClosestNumber\obj\Debug\net8.0\FindClosestNumber.genruntimeconfig.cache
+C:\Users\lam15\Sources\Leetcode\FindClosestNumber\obj\Debug\net8.0\ref\FindClosestNumber.dll

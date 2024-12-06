@@ -1,0 +1,14 @@
+C:\Users\lam15\Sources\Leetcode\RemoveSubFolder\bin\Debug\net8.0\RemoveSubFolder.exe
+C:\Users\lam15\Sources\Leetcode\RemoveSubFolder\bin\Debug\net8.0\RemoveSubFolder.deps.json
+C:\Users\lam15\Sources\Leetcode\RemoveSubFolder\bin\Debug\net8.0\RemoveSubFolder.runtimeconfig.json
+C:\Users\lam15\Sources\Leetcode\RemoveSubFolder\bin\Debug\net8.0\RemoveSubFolder.dll
+C:\Users\lam15\Sources\Leetcode\RemoveSubFolder\bin\Debug\net8.0\RemoveSubFolder.pdb
+C:\Users\lam15\Sources\Leetcode\RemoveSubFolder\obj\Debug\net8.0\RemoveSubFolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lam15\Sources\Leetcode\RemoveSubFolder\obj\Debug\net8.0\RemoveSubFolder.AssemblyInfoInputs.cache
+C:\Users\lam15\Sources\Leetcode\RemoveSubFolder\obj\Debug\net8.0\RemoveSubFolder.AssemblyInfo.cs
+C:\Users\lam15\Sources\Leetcode\RemoveSubFolder\obj\Debug\net8.0\RemoveSubFolder.csproj.CoreCompileInputs.cache
+C:\Users\lam15\Sources\Leetcode\RemoveSubFolder\obj\Debug\net8.0\RemoveSubFolder.dll
+C:\Users\lam15\Sources\Leetcode\RemoveSubFolder\obj\Debug\net8.0\refint\RemoveSubFolder.dll
+C:\Users\lam15\Sources\Leetcode\RemoveSubFolder\obj\Debug\net8.0\RemoveSubFolder.pdb
+C:\Users\lam15\Sources\Leetcode\RemoveSubFolder\obj\Debug\net8.0\RemoveSubFolder.genruntimeconfig.cache
+C:\Users\lam15\Sources\Leetcode\RemoveSubFolder\obj\Debug\net8.0\ref\RemoveSubFolder.dll
